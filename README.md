@@ -18,7 +18,7 @@ composer require php-uniter/php-uniter-laravel
 ## Testing
 To run tests in package, you need to add
 "PhpUniter\\PackageLaravel\\Tests\\": "vendor/php-uniter/php-uniter-laravel/tests"
-to   "autoload-dev": "psr-4" section of your composer.json
+to  "autoload-dev": "psr-4" section of your composer.json
 
 ## Usage
 
@@ -79,3 +79,4 @@ If you discover any security related issues, please email eduard.fomin@uniter1.t
 
 -   [PhpUniter](https://github.com/php-uniter)
 
+## v0.0.3
