@@ -28,9 +28,6 @@ class ObfuscatedClassTest extends TestCase
         $this->assertEquals($input, $deObfuscated);
     }
 
-    /**
-     * Get input and expected
-     */
     public function getObfuscatedFileBody()
     {
         return [
