@@ -78,3 +78,4 @@ If you discover any security related issues, please email eduard.fomin@uniter1.t
 ## Credits
 
 -   [PhpUniter](https://github.com/php-uniter)
+
